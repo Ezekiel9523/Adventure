@@ -1,0 +1,6 @@
+C:\Users\William.james.lawson\AppData\Local\Temporary Projects\40k Adventure\bin\Debug\40k Adventure.exe.config
+H:\VB\40k Adventure\40k Adventure\40k Adventure\obj\Debug\40k Adventure.exe
+H:\VB\40k Adventure\40k Adventure\40k Adventure\obj\Debug\_40k_Adventure.Resources.resources
+H:\VB\40k Adventure\40k Adventure\40k Adventure\obj\Debug\40k Adventure.vbproj.GenerateResource.Cache
+H:\VB\40k Adventure\40k Adventure\40k Adventure\obj\Debug\40k Adventure.pdb
+H:\VB\40k Adventure\40k Adventure\40k Adventure\bin\Debug\40k Adventure.exe.config
